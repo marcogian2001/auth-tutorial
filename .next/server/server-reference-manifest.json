@@ -1,0 +1,42 @@
+{
+  "node": {
+    "b007b0955ed1a2d75768bee69c4ea85e63ad82e3": {
+      "workers": {
+        "app/(protected)/settings/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fgianmarcoscandale%2FDev%2Fauth-tutorial%2Factions%2Fsettings.ts%22%2C%5B%22settings%22%5D%5D%2C%5B%22%2FUsers%2Fgianmarcoscandale%2FDev%2Fauth-tutorial%2Factions%2Flogout.ts%22%2C%5B%22logout%22%5D%5D%5D&__client_imported__=true!",
+        "app/(protected)/server/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fgianmarcoscandale%2FDev%2Fauth-tutorial%2Factions%2Flogout.ts%22%2C%5B%22logout%22%5D%5D%5D&__client_imported__=true!",
+        "app/(protected)/admin/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fgianmarcoscandale%2FDev%2Fauth-tutorial%2Factions%2Fadmin.ts%22%2C%5B%22admin%22%5D%5D%2C%5B%22%2FUsers%2Fgianmarcoscandale%2FDev%2Fauth-tutorial%2Factions%2Flogout.ts%22%2C%5B%22logout%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/(protected)/settings/page": "action-browser",
+        "app/(protected)/server/page": "action-browser",
+        "app/(protected)/admin/page": "action-browser"
+      }
+    },
+    "20fae2e54a35f74f477df18b68cff98ee1d74b0d": {
+      "workers": {
+        "app/(protected)/settings/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fgianmarcoscandale%2FDev%2Fauth-tutorial%2Factions%2Fsettings.ts%22%2C%5B%22settings%22%5D%5D%2C%5B%22%2FUsers%2Fgianmarcoscandale%2FDev%2Fauth-tutorial%2Factions%2Flogout.ts%22%2C%5B%22logout%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/(protected)/settings/page": "action-browser"
+      }
+    },
+    "9db6ae58fb21310c4597b8d5727c1cffd7c79e63": {
+      "workers": {
+        "app/auth/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fgianmarcoscandale%2FDev%2Fauth-tutorial%2Factions%2Flogin.ts%22%2C%5B%22login%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/auth/login/page": "action-browser"
+      }
+    },
+    "3dea957559de7b3044652e0b582b3558ce38769f": {
+      "workers": {
+        "app/(protected)/admin/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fgianmarcoscandale%2FDev%2Fauth-tutorial%2Factions%2Fadmin.ts%22%2C%5B%22admin%22%5D%5D%2C%5B%22%2FUsers%2Fgianmarcoscandale%2FDev%2Fauth-tutorial%2Factions%2Flogout.ts%22%2C%5B%22logout%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/(protected)/admin/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "pvoAVlbQ8mK7pkngWz8GqttvQjmDaHgCFwMDJgO9uTA="
+}

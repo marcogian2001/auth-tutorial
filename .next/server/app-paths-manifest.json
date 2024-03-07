@@ -1,0 +1,9 @@
+{
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/api/auth/[...nextauth]/route": "app/api/auth/[...nextauth]/route.js",
+  "/api/admin/route": "app/api/admin/route.js",
+  "/(protected)/settings/page": "app/(protected)/settings/page.js",
+  "/(protected)/server/page": "app/(protected)/server/page.js",
+  "/auth/login/page": "app/auth/login/page.js",
+  "/(protected)/admin/page": "app/(protected)/admin/page.js"
+}
